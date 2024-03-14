@@ -1,0 +1,78 @@
+engine	if_detected	malware
+Bkav		
+Lionic	Detected	Trojan.MSExcel.Generic.4!c
+Elastic	Detected	malicious (high confidence)
+MicroWorld-eScan	Detected	Trojan.GenericKD.32672372
+CMC		
+CAT-QuickHeal	Detected	O97M.Downloader.37056
+Skyhigh	Detected	W97M/Downloader.ip
+McAfee	Detected	W97M/Downloader.ip
+Malwarebytes		
+Zillya		
+Sangfor	Detected	VBA.Sus.Obf
+Trustlook		
+Alibaba	Detected	TrojanDownloader:VBA/MalDoc.ali1000101
+K7GW	Detected	Trojan ( 0001140e1 )
+K7AntiVirus	Detected	Trojan ( 0001140e1 )
+Arcabit	Detected	Trojan.Generic.D1F28A74
+Baidu	Detected	VBA.Trojan.Agent.ac
+VirIT	Detected	X97M.Dwnldr.BFS
+Symantec	Detected	Trojan.Gen.NPE
+ESET-NOD32	Detected	VBA/TrojanDropper.Agent.AXB
+Cynet	Detected	Malicious (score: 99)
+TrendMicro-HouseCall	Detected	TROJ_FRS.0NA103CI20
+Avast	Detected	Script:SNH-gen [Trj]
+ClamAV	Detected	Xls.Dropper.Agent-7398287-0
+Kaspersky	Detected	UDS:DangerousObject.Multi.Generic
+BitDefender	Detected	Trojan.GenericKD.32672372
+NANO-Antivirus	Detected	Trojan.Ole2.Vbs-heuristic.druvzi
+SUPERAntiSpyware		
+Tencent	Detected	Trojan.MsOffice.MacroS.11020865
+TACHYON	Detected	Suspicious/XOX.XSR.Gen
+Emsisoft	Detected	Trojan.GenericKD.32672372 (B)
+F-Secure	Detected	Trojan.TR/Dldr.Script.xrlus
+DrWeb	Detected	X97M.DownLoader.459
+VIPRE	Detected	Trojan.GenericKD.32672372
+TrendMicro	Detected	TROJ_FRS.0NA103CI20
+FireEye	Detected	Trojan.GenericKD.32672372
+Sophos		
+SentinelOne	Detected	Static AI - Malicious OPENXML
+Avast-Mobile		
+Jiangmin		
+Varist	Detected	ABTrojan.MGBA-
+Avira	Detected	TR/Dldr.Script.xrlus
+Antiy-AVL	Detected	Trojan[Downloader]/Script.AGeneric
+Kingsoft		
+Gridinsoft		
+Xcitium	Detected	Malware@#14kthclynvl61
+Microsoft	Detected	Trojan:O97M/Obfuse.CP
+ViRobot	Detected	XLS.Z.Agent.36523
+ZoneAlarm	Detected	HEUR:Trojan-Downloader.Script.Generic
+GData	Detected	Trojan.GenericKD.32672372
+Google	Detected	Detected
+AhnLab-V3		
+Acronis		
+VBA32		
+ALYac	Detected	Trojan.Downloader.XLS.gen
+MAX	Detected	malware (ai score=100)
+Zoner		
+Rising	Detected	Downloader.Agent/VBA!1.AC59 (CLASSIC)
+Yandex		
+Ikarus	Detected	Trojan-Downloader.Script
+MaxSecure		
+Fortinet	Detected	VBA/Agent.BCF0!tr
+BitDefenderTheta		
+AVG	Detected	Script:SNH-gen [Trj]
+Panda		
+SymantecMobileInsight		
+BitDefenderFalx		
+tehtris		
+DeepInstinct		
+APEX		
+Paloalto		
+Trapmine		
+Webroot		
+Cylance		
+CrowdStrike		
+Cybereason		
+alibabacloud		
